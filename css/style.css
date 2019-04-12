@@ -633,7 +633,7 @@ body.section-show .transition-mask:before {
   display: none;
 }
 .front-person-links > ul > li > a:hover {
-  color: #b7a389;
+  color: #3a9fbf !important;
 }
 .front-person-links > ul > li > a:hover:after,
 .front-person-links > ul > li > a:hover:before {
